@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Astro Surfer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo_spash_screen">Pyrocrypt Logo as Splash Screen.</string>
+    <string name="gameStarter">Start</string>
+
+</resources>
